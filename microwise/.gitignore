@@ -1,0 +1,4 @@
+repos
+*_log.txt*
+*.log
+*.log.*
